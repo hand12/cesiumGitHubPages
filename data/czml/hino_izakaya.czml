@@ -1,0 +1,1723 @@
+[
+    {
+        "id": "document",
+        "name": "hino_izakaya",
+        "version": "1.0"
+    },
+    {
+        "id": 1,
+        "name": "鳥貴族 日野店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">280円均一(税抜)の焼鳥屋 全席プライベートな空間</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3932949768,
+                35.6797782769,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3932949768,
+                    35.6797782769,
+                    500,
+                    139.3932949768,
+                    35.6797782769,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "養老乃瀧 日野 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">お得なサービスやってます 4名様～宴会OK！</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.380696822,
+                35.6603940188,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.380696822,
+                    35.6603940188,
+                    500,
+                    139.380696822,
+                    35.6603940188,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "温野菜 立川日野橋店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">柚子仕立ての白味噌だし★ ごぼうと菊菜の野菜盛り♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4140154575,
+                35.6861128335,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4140154575,
+                    35.6861128335,
+                    500,
+                    139.4140154575,
+                    35.6861128335,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "山内農場 豊田北口駅前店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">宴会コースは3480円から！ 木の温もりを感じる店内</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.381215971,
+                35.6597252191,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.381215971,
+                    35.6597252191,
+                    500,
+                    139.381215971,
+                    35.6597252191,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "カラオケ本舗 まねきねこ 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">豊田駅すぐそば！ 清潔☆ピカピカ☆な店内♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808843231,
+                35.65996435,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808843231,
+                    35.65996435,
+                    500,
+                    139.3808843231,
+                    35.65996435,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "焼肉彩苑 モランボン",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">ランチメニュー750円～ 掘りごたつ、完全個室有</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4114802201,
+                35.662608473,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4114802201,
+                    35.662608473,
+                    500,
+                    139.4114802201,
+                    35.662608473,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "四季彩ダイニング 春 日野店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">種類豊富な地酒が自慢！ 2H飲放付コース4800円～</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3930727316,
+                35.6808337075,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3930727316,
+                    35.6808337075,
+                    500,
+                    139.3930727316,
+                    35.6808337075,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "赤鶏農園 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">鹿児島産赤鶏さつまを使用 2Ｈ飲放付3300円コース！</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4123359907,
+                35.6623532467,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4123359907,
+                    35.6623532467,
+                    500,
+                    139.4123359907,
+                    35.6623532467,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "はなの舞 東京豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">少人数のご宴会にも！ ゆったり3h昼宴会3000円</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3811976391,
+                35.6597285516,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3811976391,
+                    35.6597285516,
+                    500,
+                    139.3811976391,
+                    35.6597285516,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "カラオケ ファンタジー 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">高幡不動でカラオケが安い 高幡不動カラオケ誕生日</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4139706167,
+                35.66126869,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4139706167,
+                    35.66126869,
+                    500,
+                    139.4139706167,
+                    35.66126869,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "庄や 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">旬ぶり祭り開催！ 店長太っ腹企画!!</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3818145204,
+                35.6599924271,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3818145204,
+                    35.6599924271,
+                    500,
+                    139.3818145204,
+                    35.6599924271,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "べぇ助",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">溶岩＆炭火焼鶏 お得なコース2.5H 2980円</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.380696822,
+                35.6603940188,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.380696822,
+                    35.6603940188,
+                    500,
+                    139.380696822,
+                    35.6603940188,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "やるき茶屋 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">自慢の刺身もご堪能下さい 焼き鳥各種</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4139628398,
+                35.6612625794,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4139628398,
+                    35.6612625794,
+                    500,
+                    139.4139628398,
+                    35.6612625794,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "くいもの屋 わん 豊田北口店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">ご宴会＝飲放付き3600円～ 3時間飲み放題1800円で♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808968196,
+                35.6600246214,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808968196,
+                    35.6600246214,
+                    500,
+                    139.3808968196,
+                    35.6600246214,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "やきとり山長 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">焼鳥,もつ,居酒屋おつまみ カップル席完備</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4129385154,
+                35.6604393118,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4129385154,
+                    35.6604393118,
+                    500,
+                    139.4129385154,
+                    35.6604393118,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "庄や 日野店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">旬ぶり祭り開催！ 落ち着く和の雰囲気</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3923728576,
+                35.6791672103,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3923728576,
+                    35.6791672103,
+                    500,
+                    139.3923728576,
+                    35.6791672103,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "やきとりいっちゃん 百草園店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">2H飲み放題1000円～ 会員がお得！</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4306704625,
+                35.6572901367,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4306704625,
+                    35.6572901367,
+                    500,
+                    139.4306704625,
+                    35.6572901367,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "海鮮呑屋 日本橋 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">海鮮から焼鳥まで揃います 日本酒・焼酎もございます</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3813356567,
+                35.6603857034,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3813356567,
+                    35.6603857034,
+                    500,
+                    139.3813356567,
+                    35.6603857034,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "炭火焼・鉄板焼 まこっちゃん ロータリー前店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">新鮮な温野菜を盛り放題♪ 鉄板焼きの迫力を間近で♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808512738,
+                35.659876859,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808512738,
+                    35.659876859,
+                    500,
+                    139.3808512738,
+                    35.659876859,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "や台ずし 日野本町",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">開店～19時迄ドリンク半額 にぎり　59円(税抜)～</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3955365028,
+                35.678509035,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3955365028,
+                    35.678509035,
+                    500,
+                    139.3955365028,
+                    35.678509035,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "JAPANESE DINING 和民 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">和民は３時間飲み放題！ プレミアムモルツ飲み放題</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4138689647,
+                35.6611170378,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4138689647,
+                    35.6611170378,
+                    500,
+                    139.4138689647,
+                    35.6611170378,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "わたみん家 豊田北口駅前店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">みん家は３時間飲み放題！ 豊富な炭火で焼いた焼き鳥</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3811520853,
+                35.6597810445,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3811520853,
+                    35.6597810445,
+                    500,
+                    139.3811520853,
+                    35.6597810445,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "さかなや道場 京王高幡SC店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">鮪は勿論！鮮魚が旨い！ 2・4・6名など少人数個室</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4145713954,
+                35.6613536964,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4145713954,
+                    35.6613536964,
+                    500,
+                    139.4145713954,
+                    35.6613536964,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "丹波黒どり農場 日野駅前店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">こだわりの“丹波黒どり” 当農場自慢のなめ味噌</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3932949768,
+                35.6797782769,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3932949768,
+                    35.6797782769,
+                    500,
+                    139.3932949768,
+                    35.6797782769,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "みちのくダイニング みのりや",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">大切な人と大切なひと時を こだわりのコース！</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4122451783,
+                35.662020504,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4122451783,
+                    35.662020504,
+                    500,
+                    139.4122451783,
+                    35.662020504,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "だんらん 豊田",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">唐揚げ食べ放題100円!! さっちゃんの手作り料理</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3803163095,
+                35.6601273722,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3803163095,
+                    35.6601273722,
+                    500,
+                    139.3803163095,
+                    35.6601273722,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "鳥貴族 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">280円均一(税抜)の焼鳥屋 全席プライベートな空間</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.380916263,
+                35.6600107345,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.380916263,
+                    35.6600107345,
+                    500,
+                    139.380916263,
+                    35.6600107345,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "天狗 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">コース2800円～ 当店人気のビア・ブラウン</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4136717725,
+                35.6607837368,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4136717725,
+                    35.6607837368,
+                    500,
+                    139.4136717725,
+                    35.6607837368,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "居酒屋 宴屋",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">貸切宴会20名～ 生ビール390円</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3943226984,
+                35.6789867267,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3943226984,
+                    35.6789867267,
+                    500,
+                    139.3943226984,
+                    35.6789867267,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "たるすけ",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">食材を生かしたメニュー 女子会限定クーポン♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4124968208,
+                35.662089114,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4124968208,
+                    35.662089114,
+                    500,
+                    139.4124968208,
+                    35.662089114,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "あお バーアンドダイナー BARDINER",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">毎日替わる料理は￥450～ 隠れ家のような雰囲気</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4115235569,
+                35.6624287722,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4115235569,
+                    35.6624287722,
+                    500,
+                    139.4115235569,
+                    35.6624287722,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "となりのチャッポラ",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">貸切は20名からOK！ くつろげるテーブル席</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4123162738,
+                35.6622613121,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4123162738,
+                    35.6622613121,
+                    500,
+                    139.4123162738,
+                    35.6622613121,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 33,
+        "name": "ダッチオーブンバル Lajolla ラホヤ",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">ラホヤＳＥＴ2000円(税抜) 24名～貸切ＯＫ！</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3944174003,
+                35.6792953055,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3944174003,
+                    35.6792953055,
+                    500,
+                    139.3944174003,
+                    35.6792953055,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 34,
+        "name": "串陣 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">高幡不動から情熱こめて！ 高幡不動で旨い串焼き★</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4124143272,
+                35.6621049434,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4124143272,
+                    35.6621049434,
+                    500,
+                    139.4124143272,
+                    35.6621049434,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 35,
+        "name": "カラオケマック 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">ライブダム・F1投入 アジアンテイストな店内♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3815389697,
+                35.6604629222,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3815389697,
+                    35.6604629222,
+                    500,
+                    139.3815389697,
+                    35.6604629222,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 36,
+        "name": "山内農場 豊田北口駅前店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">宴会コースは3480円から！ 木の温もりを感じる店内</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.381215971,
+                35.6597252191,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.381215971,
+                    35.6597252191,
+                    500,
+                    139.381215971,
+                    35.6597252191,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 37,
+        "name": "カラオケ本舗 まねきねこ 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">豊田駅すぐそば！ 清潔☆ピカピカ☆な店内♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808843231,
+                35.65996435,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808843231,
+                    35.65996435,
+                    500,
+                    139.3808843231,
+                    35.65996435,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 38,
+        "name": "カラオケ ファンタジー 高幡不動店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">高幡不動でカラオケが安い 高幡不動カラオケ誕生日</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4139706167,
+                35.66126869,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4139706167,
+                    35.66126869,
+                    500,
+                    139.4139706167,
+                    35.66126869,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 39,
+        "name": "カラオケ本舗 まねきねこ 豊田店",
+        "description": "<p class=\"image\"><img src=\"bear.png\"></p><p class=\"catch\">豊田駅すぐそば！ 清潔☆ピカピカ☆な店内♪</p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "bear.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808843231,
+                35.65996435,
+                500
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808843231,
+                    35.65996435,
+                    500,
+                    139.3808843231,
+                    35.65996435,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

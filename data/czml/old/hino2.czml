@@ -1,0 +1,447 @@
+[
+    {
+        "id": "document",
+        "name": "hino2",
+        "version": "1.0"
+    },
+    {
+        "id": "hino2-1",
+        "name": "ダッチオーブンバル Lajolla ラホヤ",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/24/17/P022502417/P022502417_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3944174003,
+                35.6792953055,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3944174003,
+                    35.6792953055,
+                    0,
+                    139.3944174003,
+                    35.6792953055,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-2",
+        "name": "串陣 高幡不動店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/01/97/P022440197/P022440197_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4124143272,
+                35.6621049434,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4124143272,
+                    35.6621049434,
+                    0,
+                    139.4124143272,
+                    35.6621049434,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-3",
+        "name": "カラオケマック 豊田店",
+        "description": "\nhttp://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3815389697,
+                35.6604629222,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3815389697,
+                    35.6604629222,
+                    0,
+                    139.3815389697,
+                    35.6604629222,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-4",
+        "name": "焼肉きんぐ 横浜港南店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/53/36/P001065336/P001065336_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.583134647,
+                35.392640615,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.583134647,
+                    35.392640615,
+                    0,
+                    139.583134647,
+                    35.392640615,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-5",
+        "name": "養老乃瀧 日野 豊田店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/42/95/P017164295/P017164295_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.380696822,
+                35.6603940188,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.380696822,
+                    35.6603940188,
+                    0,
+                    139.380696822,
+                    35.6603940188,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-6",
+        "name": "温野菜 立川日野橋店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/27/24/P010852724/P010852724_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4140154575,
+                35.6861128335,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4140154575,
+                    35.6861128335,
+                    0,
+                    139.4140154575,
+                    35.6861128335,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-7",
+        "name": "山内農場 豊田北口駅前店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/51/31/P021625131/P021625131_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.381215971,
+                35.6597252191,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.381215971,
+                    35.6597252191,
+                    0,
+                    139.381215971,
+                    35.6597252191,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-8",
+        "name": "カラオケ本舗 まねきねこ 豊田店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/73/51/P001057351/P001057351_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3808843231,
+                35.65996435,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3808843231,
+                    35.65996435,
+                    0,
+                    139.3808843231,
+                    35.65996435,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-9",
+        "name": "焼肉彩苑 モランボン",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/95/06/P014709506/P014709506_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4114802201,
+                35.662608473,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4114802201,
+                    35.662608473,
+                    0,
+                    139.4114802201,
+                    35.662608473,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hino2-10",
+        "name": "四季彩ダイニング 春 日野店",
+        "description": "\nhttp://imgfp.hotp.jp/IMGH/54/45/P021395445/P021395445_69.jpg\n",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "sample.gif",
+            "scale": 0.2,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3930727316,
+                35.6808337075,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3930727316,
+                    35.6808337075,
+                    0,
+                    139.3930727316,
+                    35.6808337075,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

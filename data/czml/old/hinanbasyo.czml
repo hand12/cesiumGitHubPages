@@ -1,0 +1,2199 @@
+[
+    {
+        "id": "document",
+        "name": "hinanbasyo",
+        "version": "1.0"
+    },
+    {
+        "id": "hinanbasyo-1",
+        "name": "日野中央公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 43<br>\n<b>施設名:</b> 日野中央公園<br>\n<b>所在地:</b> 日野市神明２丁目１３番地の２<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.394079,
+                35.6706347,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.394079,
+                    35.6706347,
+                    0,
+                    139.394079,
+                    35.6706347,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-2",
+        "name": "実践女子大（校庭一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 44<br>\n<b>施設名:</b> 実践女子大（校庭一部）<br>\n<b>所在地:</b> 日野市大坂上４丁目１番地の１<br>\n<b>電話番号:</b> 042-585-8817\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3899321,
+                35.6713956,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3899321,
+                    35.6713956,
+                    0,
+                    139.3899321,
+                    35.6713956,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-3",
+        "name": "日野自動車（株）総合グラウンド",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 45<br>\n<b>施設名:</b> 日野自動車（株）総合グラウンド<br>\n<b>所在地:</b> 日野市新町５丁目１８番地<br>\n<b>電話番号:</b> 042-581-1540\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3775329,
+                35.6820917,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3775329,
+                    35.6820917,
+                    0,
+                    139.3775329,
+                    35.6820917,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-4",
+        "name": "東光寺グラウンド",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 46<br>\n<b>施設名:</b> 東光寺グラウンド<br>\n<b>所在地:</b> 日野市栄町３丁目１５番地<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.38466,
+                35.6858747,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.38466,
+                    35.6858747,
+                    0,
+                    139.38466,
+                    35.6858747,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-5",
+        "name": "平山中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 47<br>\n<b>施設名:</b> 平山中学校（校庭）<br>\n<b>所在地:</b> 日野市平山４丁目２１番地の３<br>\n<b>電話番号:</b> 042-593-3015\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3853876,
+                35.6517649,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3853876,
+                    35.6517649,
+                    0,
+                    139.3853876,
+                    35.6517649,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-6",
+        "name": "平山小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 48<br>\n<b>施設名:</b> 平山小学校（校庭）<br>\n<b>所在地:</b> 日野市平山４丁目８番地の６<br>\n<b>電話番号:</b> 042-591-6381\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3854199,
+                35.6492204,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3854199,
+                    35.6492204,
+                    0,
+                    139.3854199,
+                    35.6492204,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-7",
+        "name": "滝合小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 49<br>\n<b>施設名:</b> 滝合小学校（校庭）<br>\n<b>所在地:</b> 日野市西平山２丁目３番地の１<br>\n<b>電話番号:</b> 042-583-5172\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3729432,
+                35.6457013,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3729432,
+                    35.6457013,
+                    0,
+                    139.3729432,
+                    35.6457013,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-8",
+        "name": "平山台健康・市民支援センター（平山台小跡地校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 50<br>\n<b>施設名:</b> 平山台健康・市民支援センター（平山台小跡地校庭）<br>\n<b>所在地:</b> 日野市平山２丁目１番地の１<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3870786,
+                35.6409852,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3870786,
+                    35.6409852,
+                    0,
+                    139.3870786,
+                    35.6409852,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-9",
+        "name": "駒形公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 9<br>\n<b>施設名:</b> 駒形公園<br>\n<b>所在地:</b> 日野市川辺堀之内先<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    0,
+                    null,
+                    null,
+                    0,
+                    null,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-10",
+        "name": "日野第二中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 10<br>\n<b>施設名:</b> 日野第二中学校（校庭）<br>\n<b>所在地:</b> 日野市多摩平４丁目５番地の２<br>\n<b>電話番号:</b> 042-581-0056\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3795667,
+                35.6652795,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3795667,
+                    35.6652795,
+                    0,
+                    139.3795667,
+                    35.6652795,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-11",
+        "name": "豊田小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 11<br>\n<b>施設名:</b> 豊田小学校（校庭）<br>\n<b>所在地:</b> 日野市東豊田２丁目１４番地の１<br>\n<b>電話番号:</b> 042-581-0070\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3899216,
+                35.6609079,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3899216,
+                    35.6609079,
+                    0,
+                    139.3899216,
+                    35.6609079,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-12",
+        "name": "日野第五小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 12<br>\n<b>施設名:</b> 日野第五小学校（校庭）<br>\n<b>所在地:</b> 日野市多摩平６丁目２１番地の１<br>\n<b>電話番号:</b> 042-581-0407\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3828483,
+                35.6701815,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3828483,
+                    35.6701815,
+                    0,
+                    139.3828483,
+                    35.6701815,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-13",
+        "name": "多摩平の森",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 13<br>\n<b>施設名:</b> 多摩平の森<br>\n<b>所在地:</b> 日野市多摩平４丁目１０番地<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3827302,
+                35.6665433,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3827302,
+                    35.6665433,
+                    0,
+                    139.3827302,
+                    35.6665433,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-14",
+        "name": "多摩平第一公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 14<br>\n<b>施設名:</b> 多摩平第一公園<br>\n<b>所在地:</b> 日野市多摩平４丁目２番地<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3793861,
+                35.6666127,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3793861,
+                    35.6666127,
+                    0,
+                    139.3793861,
+                    35.6666127,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-15",
+        "name": "コニカミノルタ日野グラウンド",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 15<br>\n<b>施設名:</b> コニカミノルタ日野グラウンド<br>\n<b>所在地:</b> 日野市さくら町１番地<br>\n<b>電話番号:</b> 042-589-8112\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3751586,
+                35.6676848,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3751586,
+                    35.6676848,
+                    0,
+                    139.3751586,
+                    35.6676848,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-16",
+        "name": "七生中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 16<br>\n<b>施設名:</b> 七生中学校（校庭）<br>\n<b>所在地:</b> 日野市南平６丁目７番地の１<br>\n<b>電話番号:</b> 042-691-0174\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3934424,
+                35.6590047,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3934424,
+                    35.6590047,
+                    0,
+                    139.3934424,
+                    35.6590047,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-17",
+        "name": "南平小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 17<br>\n<b>施設名:</b> 南平小学校（校庭）<br>\n<b>所在地:</b> 日野市南平４丁目１８番地の１<br>\n<b>電話番号:</b> 042-592-2021\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3990069,
+                35.660511,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3990069,
+                    35.660511,
+                    0,
+                    139.3990069,
+                    35.660511,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-18",
+        "name": "かしまだい地区広場",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 18<br>\n<b>施設名:</b> かしまだい地区広場<br>\n<b>所在地:</b> 日野市南平１丁目１０番地の４３<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4047288,
+                35.6574143,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4047288,
+                    35.6574143,
+                    0,
+                    139.4047288,
+                    35.6574143,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-19",
+        "name": "日野第一中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 1<br>\n<b>施設名:</b> 日野第一中学校（校庭）<br>\n<b>所在地:</b> 日野市日野本町７丁目７番地の７<br>\n<b>電話番号:</b> 042-581-0009\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.400592,
+                35.6801784,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.400592,
+                    35.6801784,
+                    0,
+                    139.400592,
+                    35.6801784,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-20",
+        "name": "日野第一小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 2<br>\n<b>施設名:</b> 日野第一小学校（校庭）<br>\n<b>所在地:</b> 日野市日野本町２丁目１４番地の１<br>\n<b>電話番号:</b> 042-581-0061\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3996755,
+                35.6768593,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3996755,
+                    35.6768593,
+                    0,
+                    139.3996755,
+                    35.6768593,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-21",
+        "name": "日野第四小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 3<br>\n<b>施設名:</b> 日野第四小学校（校庭）<br>\n<b>所在地:</b> 日野市石田４３０番地<br>\n<b>電話番号:</b> 042-581-0038\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    0,
+                    null,
+                    null,
+                    0,
+                    null,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-22",
+        "name": "仲田小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 4<br>\n<b>施設名:</b> 仲田小学校（校庭）<br>\n<b>所在地:</b> 日野市日野本町６丁目１番地の７４<br>\n<b>電話番号:</b> 042-581-8511\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4018918,
+                35.6825616,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4018918,
+                    35.6825616,
+                    0,
+                    139.4018918,
+                    35.6825616,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-23",
+        "name": "市民の森スポーツ公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 5<br>\n<b>施設名:</b> 市民の森スポーツ公園<br>\n<b>所在地:</b> 日野市日野本町７丁目１２番地の１<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4026493,
+                35.6806188,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4026493,
+                    35.6806188,
+                    0,
+                    139.4026493,
+                    35.6806188,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-24",
+        "name": "浅川スポーツ公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 6<br>\n<b>施設名:</b> 浅川スポーツ公園<br>\n<b>所在地:</b> 日野市万願寺５丁目３番地の７<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4129886,
+                35.6678661,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4129886,
+                    35.6678661,
+                    0,
+                    139.4129886,
+                    35.6678661,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-25",
+        "name": "万願寺中央公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 7<br>\n<b>施設名:</b> 万願寺中央公園<br>\n<b>所在地:</b> 日野市万願寺４丁目２０番地の１２<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4148021,
+                35.671463,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4148021,
+                    35.671463,
+                    0,
+                    139.4148021,
+                    35.671463,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-26",
+        "name": "都立日野高等学校（校庭一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 8<br>\n<b>施設名:</b> 都立日野高等学校（校庭一部）<br>\n<b>所在地:</b> 日野市石田１丁目１９０番地の１<br>\n<b>電話番号:</b> 042-581-7123\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4246009,
+                35.6671095,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4246009,
+                    35.6671095,
+                    0,
+                    139.4246009,
+                    35.6671095,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-27",
+        "name": "日本野鳥の会　（鳥と緑の国際センター敷地一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 19<br>\n<b>施設名:</b> 日本野鳥の会　（鳥と緑の国際センター敷地一部）<br>\n<b>所在地:</b> 日野市南平２丁目３５番地の２<br>\n<b>電話番号:</b> 042-593-6877\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4005321,
+                35.6546312,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4005321,
+                    35.6546312,
+                    0,
+                    139.4005321,
+                    35.6546312,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-28",
+        "name": "日野第三中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 20<br>\n<b>施設名:</b> 日野第三中学校（校庭）<br>\n<b>所在地:</b> 日野市程久保６５０番地<br>\n<b>電話番号:</b> 042-591-2228\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4126423,
+                35.6530845,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4126423,
+                    35.6530845,
+                    0,
+                    139.4126423,
+                    35.6530845,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-29",
+        "name": "夢が丘小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 21<br>\n<b>施設名:</b> 夢が丘小学校（校庭）<br>\n<b>所在地:</b> 日野市程久保１丁目１４番地の２<br>\n<b>電話番号:</b> 042-591-7011\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4099953,
+                35.65284,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4099953,
+                    35.65284,
+                    0,
+                    139.4099953,
+                    35.65284,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-30",
+        "name": "教育センター（高幡台小学校跡地校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 22<br>\n<b>施設名:</b> 教育センター（高幡台小学校跡地校庭）<br>\n<b>所在地:</b> 日野市程久保５５０番地<br>\n<b>電話番号:</b> 042-592-0505\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4115007,
+                35.6525373,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4115007,
+                    35.6525373,
+                    0,
+                    139.4115007,
+                    35.6525373,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-31",
+        "name": "明星大学（校庭一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 23<br>\n<b>施設名:</b> 明星大学（校庭一部）<br>\n<b>所在地:</b> 日野市程久保２丁目１番地の１<br>\n<b>電話番号:</b> 042-591-5111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4085403,
+                35.6451853,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4085403,
+                    35.6451853,
+                    0,
+                    139.4085403,
+                    35.6451853,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-32",
+        "name": "百草台コミュニティセンター（百草台小跡地　校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 24<br>\n<b>施設名:</b> 百草台コミュニティセンター（百草台小跡地　校庭）<br>\n<b>所在地:</b> 日野市百草９９９番地<br>\n<b>電話番号:</b> 042-594-5650\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4188307,
+                35.6509377,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4188307,
+                    35.6509377,
+                    0,
+                    139.4188307,
+                    35.6509377,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-33",
+        "name": "日野第四中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 25<br>\n<b>施設名:</b> 日野第四中学校（校庭）<br>\n<b>所在地:</b> 日野市旭が丘２丁目４２番地<br>\n<b>電話番号:</b> 042-583-3905\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3689927,
+                35.6622327,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3689927,
+                    35.6622327,
+                    0,
+                    139.3689927,
+                    35.6622327,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-34",
+        "name": "日野第六小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 26<br>\n<b>施設名:</b> 日野第六小学校（校庭）<br>\n<b>所在地:</b> 日野市多摩平３丁目２１番地<br>\n<b>電話番号:</b> 042-581-4686\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3739561,
+                35.6647879,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3739561,
+                    35.6647879,
+                    0,
+                    139.3739561,
+                    35.6647879,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-35",
+        "name": "旭が丘小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 27<br>\n<b>施設名:</b> 旭が丘小学校（校庭）<br>\n<b>所在地:</b> 日野市旭が丘５丁目２１番地の１<br>\n<b>電話番号:</b> 042-583-3733\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3602463,
+                35.6594191,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3602463,
+                    35.6594191,
+                    0,
+                    139.3602463,
+                    35.6594191,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-36",
+        "name": "首都大学東京日野キャンパス（校庭一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 28<br>\n<b>施設名:</b> 首都大学東京日野キャンパス（校庭一部）<br>\n<b>所在地:</b> 日野市旭が丘６丁目６番地<br>\n<b>電話番号:</b> 042-585-8606\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3657347,
+                35.6612217,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3657347,
+                    35.6612217,
+                    0,
+                    139.3657347,
+                    35.6612217,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-37",
+        "name": "旭が丘東公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 29<br>\n<b>施設名:</b> 旭が丘東公園<br>\n<b>所在地:</b> 日野市旭が丘１丁目１８番地の１<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3732288,
+                35.6560695,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3732288,
+                    35.6560695,
+                    0,
+                    139.3732288,
+                    35.6560695,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-38",
+        "name": "三沢中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 30<br>\n<b>施設名:</b> 三沢中学校（校庭）<br>\n<b>所在地:</b> 日野市三沢１丁目１７番地の４<br>\n<b>電話番号:</b> 042-592-5017\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4237826,
+                35.6598396,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4237826,
+                    35.6598396,
+                    0,
+                    139.4237826,
+                    35.6598396,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-39",
+        "name": "潤徳小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 31<br>\n<b>施設名:</b> 潤徳小学校（校庭）<br>\n<b>所在地:</b> 日野市高幡４０２番地<br>\n<b>電話番号:</b> 042-591-0409\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4143831,
+                35.6642832,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4143831,
+                    35.6642832,
+                    0,
+                    139.4143831,
+                    35.6642832,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-40",
+        "name": "日野第八小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 32<br>\n<b>施設名:</b> 日野第八小学校（校庭）<br>\n<b>所在地:</b> 日野市三沢２００番地<br>\n<b>電話番号:</b> 042-591-2411\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4247713,
+                35.6613311,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4247713,
+                    35.6613311,
+                    0,
+                    139.4247713,
+                    35.6613311,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-41",
+        "name": "七生緑小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 33<br>\n<b>施設名:</b> 七生緑小学校（校庭）<br>\n<b>所在地:</b> 日野市百草８９６の１<br>\n<b>電話番号:</b> 042-591-0998\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4228441,
+                35.6539125,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4228441,
+                    35.6539125,
+                    0,
+                    139.4228441,
+                    35.6539125,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-42",
+        "name": "高幡不動尊（境内一部）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 34<br>\n<b>施設名:</b> 高幡不動尊（境内一部）<br>\n<b>所在地:</b> 日野市高幡７３３番地<br>\n<b>電話番号:</b> 042-591-0032\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4097364,
+                35.6622694,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4097364,
+                    35.6622694,
+                    0,
+                    139.4097364,
+                    35.6622694,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-43",
+        "name": "杉野学園グラウンド",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 35<br>\n<b>施設名:</b> 杉野学園グラウンド<br>\n<b>所在地:</b> 日野市百草１００６番地<br>\n<b>電話番号:</b> 042-591-3531\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4217724,
+                35.6470577,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4217724,
+                    35.6470577,
+                    0,
+                    139.4217724,
+                    35.6470577,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-44",
+        "name": "冲永学園グラウンド",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 36<br>\n<b>施設名:</b> 冲永学園グラウンド<br>\n<b>所在地:</b> 日野市百草８０４番地の１７外<br>\n<b>電話番号:</b> 03-3379-0492\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    0,
+                    null,
+                    null,
+                    0,
+                    null,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-45",
+        "name": "帝京大学駐車場",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 37<br>\n<b>施設名:</b> 帝京大学駐車場<br>\n<b>所在地:</b> 日野市百草８０４番地の１７外<br>\n<b>電話番号:</b> 03-3379-0492\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    0,
+                    null,
+                    null,
+                    0,
+                    null,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-46",
+        "name": "百草台自然公園",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 38<br>\n<b>施設名:</b> 百草台自然公園<br>\n<b>所在地:</b> 日野市百草９１４番地の８５<br>\n<b>電話番号:</b> 042-585-1111\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.4231331,
+                35.6521155,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.4231331,
+                    35.6521155,
+                    0,
+                    139.4231331,
+                    35.6521155,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-47",
+        "name": "大坂上中学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 39<br>\n<b>施設名:</b> 大坂上中学校（校庭）<br>\n<b>所在地:</b> 日野市大坂上４丁目１７番地の１<br>\n<b>電話番号:</b> 042-583-9756\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3860324,
+                35.6740147,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3860324,
+                    35.6740147,
+                    0,
+                    139.3860324,
+                    35.6740147,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-48",
+        "name": "日野第三小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 40<br>\n<b>施設名:</b> 日野第三小学校（校庭）<br>\n<b>所在地:</b> 日野市日野台２丁目１番地の１<br>\n<b>電話番号:</b> 042-581-0101\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3840519,
+                35.6787643,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3840519,
+                    35.6787643,
+                    0,
+                    139.3840519,
+                    35.6787643,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-49",
+        "name": "日野第七小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 41<br>\n<b>施設名:</b> 日野第七小学校（校庭）<br>\n<b>所在地:</b> 日野市神明３丁目２番地<br>\n<b>電話番号:</b> 042-583-3907\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3926513,
+                35.6724483,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3926513,
+                    35.6724483,
+                    0,
+                    139.3926513,
+                    35.6724483,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "hinanbasyo-50",
+        "name": "東光寺小学校（校庭）",
+        "description": "<div class=\"googft-info-window\">\n<b>番号:</b> 42<br>\n<b>施設名:</b> 東光寺小学校（校庭）<br>\n<b>所在地:</b> 日野市新町３丁目２４番地の１<br>\n<b>電話番号:</b> 042-584-6200\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://shinsai.archiving.jp/icon/faceimage/e2-point-1-map.png",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.3835129,
+                35.6823473,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.3835129,
+                    35.6823473,
+                    0,
+                    139.3835129,
+                    35.6823473,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
